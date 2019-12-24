@@ -22,6 +22,8 @@ Easy
        * broadcast block
        * "when I receive" block
        * wait block
+       * "point in direction" block
 
 ### Outcome
-https://scratch.mit.edu/projects/344232682
+https://scratch.mit.edu/projects/344232682 <br>
+Abby follows Dee to talk to him and ask him a question. Dee hears Abby after a while and turns around to reply.
