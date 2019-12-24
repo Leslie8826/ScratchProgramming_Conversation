@@ -9,13 +9,11 @@ Easy
 ### Objectives: 
   - Students will be able to: 
        * understand how to implement blocks according to a scenario
-       * work with 2 characters at the same time
-       * implement code for these 2 characters
-       * learn how to move a character according to the other one
-       * make their sprite move horizontally (left and right)
-       * choose the right blocks so the animation looks credible
+       * learn how to implement blocks for a sprite according to another one
+       * make sprites move horizontally (left and right)
+       * have one of the sprites change their direction
        * add a conversation between 2 characters
-       * understand
+       * choose the right blocks and timing so the animation looks credible
   - Students will get familiar with:
        * "switch to costume" blocks
        * move blocks
