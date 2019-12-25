@@ -3,10 +3,16 @@
 ## Author
 Leslie8826
 
-### Difficulty
+## Audience 
+Middle School Students
+
+## Term
+Fall 2019
+
+## Difficulty
 Easy
 
-### Objectives: 
+## Objectives
   - Students will be able to: 
        * understand how to implement blocks according to a scenario
        * learn how to implement blocks for a sprite according to another one
@@ -22,6 +28,6 @@ Easy
        * wait block
        * "point in direction" block
 
-### Outcome
+## Outcome
 https://scratch.mit.edu/projects/344232682 <br>
 Abby follows Dee to talk to him and ask him a question. Dee hears Abby after a while and turns around to reply.
