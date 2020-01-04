@@ -1,18 +1,21 @@
-# Lesson 6: Conversation
+# Scratch Programming
 
-## Author
-Leslie8826
+## Lesson 6: Conversation
 
-## Audience 
+### Author
+Leslie8826 (Github platform) <br>
+Leslie_Instructor (Scratch platform)
+
+### Audience 
 Middle School Students
 
-## Term
+### Term
 Fall 2019
 
-## Difficulty
+### Difficulty
 Easy
 
-## Objectives
+### Objectives
   - Students will be able to: 
        * understand how to implement blocks according to a scenario
        * learn how to implement blocks for a sprite according to another one
@@ -28,6 +31,6 @@ Easy
        * wait block
        * "point in direction" block
 
-## Outcome
+### Output
 https://scratch.mit.edu/projects/344232682 <br>
 Abby follows Dee to talk to him and ask him a question. Dee hears Abby after a while and turns around to reply.
